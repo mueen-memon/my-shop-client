@@ -8,6 +8,6 @@ An e Commerse App for the Android & iOS with Beautiful UI.
 * [Flutter](https://flutter.dev/)
 * [Firebase](https://firebase.google.com/)
 
-## License
+## Contributors
 
-Developed By Mueen Memon. See `LICENSE.txt` for more information.
+Developed By Mueen Memon.
