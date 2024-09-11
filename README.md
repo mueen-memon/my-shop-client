@@ -1,6 +1,6 @@
 # My Shop 
 
-An e Commerse App for the Android & iOS with Beautiful UI.
+An eCommerce App for the Android & iOS with Beautiful UI.
 
 
 ## Demo
